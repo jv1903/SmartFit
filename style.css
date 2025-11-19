@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #ffb612;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+
+.logo img{
+    width: 120px;
+    height: 120px;
+    margin-top: 10px;
+    
+ }
+
+.Container-1{
+    width: 100%;
+    min-width: auto;
+    height: auto;
+    min-height: 350px;
+    background-color: #000000;
+    background-image: -webkit-linear-gradient(50deg, #011 50%, #ffb612 0%);
+}
